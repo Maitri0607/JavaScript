@@ -6,6 +6,3 @@
 ((name)=>{
     console.log(`using arrow function...${name}`);
 })("maitri")
-
-
-
